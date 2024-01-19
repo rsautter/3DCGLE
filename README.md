@@ -15,7 +15,10 @@ https://user-images.githubusercontent.com/14216783/224053529-af028b73-6f58-47f4-
 
 The following video shows the 3D gradient of the corresponding CGLE solution:
 
-https://user-images.githubusercontent.com/14216783/224053529-af028b73-6f58-47f4-a0a4-0108392fa167.mp4
+
+https://github.com/rsautter/3DCGLE/assets/14216783/e0d4d6fb-000b-409a-87a1-a40634cc6ab4
+
+
 
 ## GPA
 
