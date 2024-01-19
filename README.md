@@ -19,9 +19,11 @@ https://github.com/rsautter/3DCGLE/assets/14216783/e0d4d6fb-000b-409a-87a1-a4063
 
 
 
-## GPA
+## GPA and $G_{\phi}$
 
-We also present a Gradient Pattern Analysis ([GPA](https://en.wikipedia.org/wiki/Gradient_pattern_analysis)) of the system. The implementation is public available [here](https://github.com/rsautter/GPA). The 3D version of GPA is in the GPA3D folder.
+We also present a Gradient Pattern Analysis ([GPA](https://en.wikipedia.org/wiki/Gradient_pattern_analysis)) of the system. The implementation is public available [here](https://github.com/rsautter/GPA). 
+
+The 3D version of  $G_{\phi}$ is in the GPA3D folder.
 
 
 ## Paper link
