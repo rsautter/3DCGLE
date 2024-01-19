@@ -25,6 +25,8 @@ We also present a Gradient Pattern Analysis ([GPA](https://en.wikipedia.org/wiki
 
 The 3D version of  $G_{\phi}$ is in the GPA3D folder.
 
+## Structure Function
+The 3D structures were computed using Silversmith's [cc3d](https://github.com/seung-lab/connected-components-3d) code.
 
 ## Paper link
 Under submission
